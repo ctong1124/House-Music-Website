@@ -1,0 +1,67 @@
+/*
+ * CSS Page Transitions
+ * Don't forget to add vendor prefixes!
+
+  /** Basic styles for an animated element */
+  .scene_element {
+    -webkit-animation-duration: .5s;
+    -webkit-transition-timing-function: ease-in;
+    -webkit-animation-fill-mode: both;
+  }
+
+  .scene_element_medium {
+    -webkit-animation-duration: 2s;
+    -webkit-transition-timing-function: ease-in;
+    -webkit-animation-fill-mode: both;
+  }
+
+
+  .scene_element_long {
+    -webkit-animation-duration: 5s;
+    -webkit-animation-delay: 3s;
+    -webkit-transition-timing-function: ease-in;
+    -webkit-animation-fill-mode: both;
+  }
+
+  .scene_element_delay {
+    -webkit-animation-duration: 5s;
+    -webkit-animation-delay: 3s;
+    -webkit-transition-timing-function: ease-in;
+    -webkit-animation-fill-mode: both;
+  }
+
+  /** An element that fades in */
+  .scene_element--fadein {
+    -webkit-animation-name: fadeIn;
+  }
+
+  /** An element that fades in and slides up */
+  .scene_element--fadeinup {
+    -webkit-animation-name: fadeInUp;
+  }
+
+  .scene_element--up {
+    -webkit-animation-name: up;
+  }
+
+    /** An element that fades in and slides down */
+  .scene_element--fadeindown {
+    -webkit-animation-name: fadeInDown;
+  }
+
+  /** An element that fades in and slides from the right */
+  .scene_element--fadeinright {
+    -webkit-animation-name: fadeInRight;
+  }
+
+  /** An element that fades in and slides from the left */
+  .scene_element--fadeinleft {
+    -webkit-animation-name: fadeInLeft;
+  }
+
+  .change_color {
+    -webkit-animation-name: changeColor;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
+} 
