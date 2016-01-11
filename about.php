@@ -106,7 +106,7 @@
           </div>
         </div>
 
-          <div class="section pad-medium form">
+          <!-- <div class="section pad-medium form">
           <div class="section-fixed ">
             <form name="htmlform" method="post" action="html_form_send.php">
               <table>
@@ -140,7 +140,6 @@
             </tr>
             <tr>
              <td colspan="2" style="text-align:center">
-              <!-- We are grateful to you for keeping this link in place. thank you. -->
               <input type="submit" value="Submit">   ( <a href="http://www.freecontactform.com/html_form.php">HTML Form</a> )
             </td>
             </tr>
@@ -148,7 +147,7 @@
             </form>
           </div>
 
-        </div>
+        </div> -->
         </div>
         </div>
 

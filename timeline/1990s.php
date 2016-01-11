@@ -102,55 +102,58 @@
               </div>
              </div>
 
+             <div class="section pad-medium-top"> 
+               <div class="section-fixed">
+                 <div class="col12 subsec-header">
+                   <h6>1990s</h6>
+                   <h3>making the charts</h3>
+                   <h5>House music reaches the mainstream</h5> 
+                 </div>
+             </div>
+             </div>
+             <div class="section pad-small-bot">
+               <div class="section-fixed">
+               <p>
+                 House continued to make its way into the mainstream with more and more hits
+                 with house influences reaching the charts in not only the UK, but in the US
+                 and internationally. House began to become a staple in pop music and once again, 
+                 found its way into new genres. 
+               </p>
+               </div>
+             </div>
 
+             <div id="music1990s1">
+             </div>
 
-
-
-
-            <div class="section">
-              <div class="col12 example-large"></div>
-            </div>
-            <div class="section pad-large">
-              <div class="section-fixed">
-                <div class="col6">
-                  <p>Hoodie street art wayfarers iPhone synth mumblecore. 
-                    Shoreditch kitsch heirloom lomo actually, ethical hashta
-                    g PBR&B chambray. low-carb disrupt, mumblecore 
-                    gluten-free brunch wayfarers Pitchfork. Hoodie street art wayfarers 
-                    iPhone synth mumblecore. Shoreditch kitsch heirloom lomo actually, 
-                    ethical hashtag PBR&B chambray.</p>
-                </div>
-                <div class="col6 example-medium">
-                </div>
+             <div class="section-fixed pad-medium-top"> 
+              <div class="col12 subsec-header">
+                <h6>1990s</h6>
+                <h3>one more time</h3>
+                <h5>French house</h5>
               </div>
             </div>
-            <div class="section"> 
+
+            <div class="section pad-small-bot">
               <div class="section-fixed">
-                <div class="col12 example-medium"></div>
+              <p>
+                French house is a term of house music created by French artists in the late 1990s into
+                the 2000s. Mostly influenced by Euro disco, French house characteristically uses
+                disco samples, heavy filters and analog synths. 
+              </p>
               </div>
             </div>
 
-            <div class="section pad-medium-top"> 
-              <div class="section-fixed">
-                <div class="col12 subsec-header">
-                  <h6>1990s</h6>
-                  <h3>headline headline headline </h3>
-                </div>
-              </div>
+            <div id="music1990s2">
             </div>
-            <div class="section pad-large-bot">
-              <div class="section-fixed">
-                <p>Hoodie street art wayfarers iPhone synth mumblecore. 
-                  Shoreditch kitsch heirloom lomo actually, ethical hashta
-                  g PBR&B chambray. Typewriter readymade church-key, letter
-                  press tote bag ugh ennui leggings chillwave umami swag. 
-                  Trust fund tousled gentrify, cornhole small batch vegan 
-                  ffaut banh mi photo booth slow-carb disrupt, mumblecore 
-                  gluten-free brunch wayfarers Pitchfork.</p>
-              </div>
-            </div>
+
+
           
-          <?php include("../phpincludes/footer.php"); ?>
+          <div class="section"> 
+            <div class="prevpage">
+              <h6> back to</h6>
+              <a href="uk.php"><h2>Late 1980s: UK</h2></a>
+            </div>
+          </div> 
         </div>
       </div>
 

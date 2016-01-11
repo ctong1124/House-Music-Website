@@ -454,7 +454,7 @@ a {
 
 .navbar .navbar-timeline li {
     float: left;
-    width: 13%;
+    width: 20%;
     background: linear-gradient(
       to bottom,
       transparent 42%,
@@ -478,7 +478,7 @@ a {
 
 .navbar .navbar-timeline li.two-line {
     float: left;
-    width: 13%;
+    width: 20%;
     background: linear-gradient(
       to bottom,
       transparent 37%,
@@ -632,7 +632,8 @@ a {
 }
 
 .early1980s .nextpage h2,
-.uk .prevpage h2 {
+.uk .prevpage h2, 
+.1990s .prevpage h2{
     font-size: 2em;
     /*padding-bottom:.33em;*/
     line-height:1.34em;
@@ -852,6 +853,10 @@ a {
     -o-transform:translateY(100%);
     transform:translateY(100%);
 
+}
+
+.index .nextpage {
+    height: 3em;
 }
 
 
@@ -1200,6 +1205,10 @@ img.clubmap {
 .a1990s .clubmap .marker.boston {
     top: 37%;
     left: 78%;
+}
+
+.a1990s .prevpage {
+    height:3em;
 }
 
 /*2000s*/

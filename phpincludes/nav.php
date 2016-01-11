@@ -77,7 +77,7 @@
                         </div>
                     </a>
                 </li>
-                <li>
+                <li li class="timeline-end">
                     <a <?php if ($thisPage=="1990s") echo " class=\"current\"";
                         if ($section=="main") echo " href=\"timeline/1990s.php\""; 
 						if ($section=="timeline") echo " href=\"1990s.php\"";?>>
@@ -88,7 +88,7 @@
                         <div class="timeline-section">1990s</div>
                     </a>
                 </li>
-                <li>
+                <!-- <li>
                     <a <?php if ($thisPage=="2000s") echo " class=\"current\"";
                         if ($section=="main") echo " href=\"timeline/2000s.php\""; 
 						if ($section=="timeline") echo " href=\"2000s.php\"";?>>
@@ -109,7 +109,7 @@
                         </div>
                         <div class="timeline-section">2010s</div>
                     </a>
-                </li> 
+                </li> --> 
             </ul>
         </div>
     </div>

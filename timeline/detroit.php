@@ -138,7 +138,7 @@
             </div>
             </div>
 
-            <div id="music">
+            <div id="musicdetroit1">
             </div>
 
             <div class="section pad-medium-top"> 

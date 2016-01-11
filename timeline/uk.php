@@ -47,33 +47,10 @@
               </p>
               </div>
             </div>
-            <div class="section pad-small">
-              <div class="section-fixed">
-                
 
-                
-              <div class="col8">
-                <div class="videoWrapper">
-                  <iframe width="420" height="315" src="//www.youtube.com/embed/Lr-OgG1A74c" frameborder="0" allowfullscreen></iframe>
-                </div>
-              </div>
-              <div class="col4 pad-small-top">
-                <div class="sans-serif-p">
-                  <span class="headline-p">Artist </span> 
-                  Farley Jackmaster Funk, featuring Darryl Pandy
-                </div> 
-                <div class="sans-serif-p">
-                  <span class="headline-p">Song </span> Love Can't Turn Around
-                </div> 
-                <div class="sans-serif-p">
-                  <span class="headline-p">Year </span> 1986
-                </div>
-                <div class="sans-serif-p">
-                </div>
-              </div>
+            <div id="musicuk3"></div>
 
-              </div>
-            </div>
+           
 
             <div class="section pad-medium-top"> 
               <div class="section-fixed">
@@ -358,8 +335,108 @@
               </div>
             </div>
 
-            <div id="music">
+            <!-- <div id="music">
+            </div> -->
+
+            <div id="musicuk1">
             </div>
+
+            <div class="section pad-medium-top"> 
+              <div class="section-fixed">
+              <div class="col12 subsec-header">
+                <h6>LATE 1980S: UK</h6>
+                <h3>House evolves</h3>
+                <h5>House begins to influence new genres</h5> 
+              </div>
+              </div>
+            </div>
+
+            <div id="musicuk2">
+            </div>
+
+            <!-- <div class="section pad-small">
+              <div class="section-fixed">
+                <div class="col8">
+                  <div class="videoWrapper">
+                    <iframe width="420" height="315" src="//www.youtube.com/embed/7fWYtIdJD7M" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+                <div class="col4 pad-small-top">
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Artist </span> 
+                    Happy Mondays
+                  </div> 
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Song </span> Wrote For Luck (Think About The Future Mix)
+                  </div> 
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Year </span> 1988
+                  </div>
+                  <div class="sans-serif-p">
+                    Manchester's The Happy Mondays started out as an indie band, but faced a shift as they recorded
+                    their second album <span style="font-style: italic" >Bummed</span>. They brought on 
+                    DJ Paul Oakenfold to give the record a rave/club feel&mdash;the first rock band in 
+                    the UK to embrace the emerging culture. 
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="section pad-small">
+              <div class="section-fixed">
+                <div class="col8">
+                  <div class="videoWrapper">
+                    <iframe width="420" height="315" src="//www.youtube.com/embed/CdMs7eqMvNg" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+                <div class="col4 pad-small-top">
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Artist </span> 
+                    The Orb
+                  </div> 
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Song </span> 
+                    Little Fluffy Clouds
+                  </div> 
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Year </span> 1990
+                  </div>
+                  <div class="sans-serif-p">
+                    "Little Fluffy Clouds" was one of the first songs to emerge from the ambient house genre, 
+                    a chilled out version of what was happening in the rave scene. It features an anecdote from
+                    an interview with musician Rickie Lee Jones over a looping electronic beat.  
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="section pad-small">
+              <div class="section-fixed">
+                <div class="col8">
+                  <div class="videoWrapper">
+                    <iframe width="420" height="315" src="//www.youtube.com/embed/kUIPr9eIqU8" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+                <div class="col4 pad-small-top">
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Artist </span> 
+                    Shut Up and Dance
+                  </div> 
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Song </span> 
+                    10 pounds to get in
+                  </div> 
+                  <div class="sans-serif-p">
+                    <span class="headline-p">Year </span> 1989
+                  </div>
+                  <div class="sans-serif-p">
+                    This song was part of the beginnings of the breakbeat genre. Shut Up and Dance 
+                    used sped-up hip-hop-like breakbeats instead drum machines to create this new 
+                    sound for the rave era. 
+                  </div>
+                </div>
+              </div>
+            </div> -->
           
           <?php include("../phpincludes/footer.php"); ?>
         </div>

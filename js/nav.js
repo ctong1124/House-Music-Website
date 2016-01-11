@@ -46,36 +46,6 @@ jQuery(document).ready(function($){
 	});
 
 	
-
-	
-
-	//  $(document).not(".navbar").click(function(){
-	//  	if(($(".navbar-basic").css("display") == "block")
-	// 		|| ($(".navbar-timeline").css("display") == "block")) {
-
-	//  		 if(($(".navbar-basic").css("display") != "none")
-	//  		  && ($(".navbar-timeline").css("display") != "none")){
-	//  		 	$(".navbar-basic").toggle("fast");
-	//  			$(".navbar-timeline").toggle("fast");
-	//  			$(".navbar-basic .timeline").toggleClass("on-timeline");
-	//  		 }
-	//  		 //if basic open, but timeline isn't then just close basic
-	//  		 if(($(".navbar-basic").css("display") != "none")
-	//  		  && ($(".navbar-timeline").css("display") == "none")){
-	//  		 	$(".navbar-basic").toggle("fast");
-	//  		 }
-
-	//  		 //if in timeline and both are closed, automatically open timeline as well
-	//  		 if(section == "timeline" && ($(".navbar-basic").css("display") == "none")
-	//  		  && ($(".navbar-timeline").css("display") == "none")) {
-	//  		 	$(".navbar-basic").toggle("fast");
-	//  		 	$(".navbar-timeline").toggle("fast");
-	//  		 	$(".navbar-basic .timeline").toggleClass("on-timeline");
-	//  		 }
-			
-			
-	// 	}
-	// });
 	
 	//hover function for individual timeline dates
 	$(".navbar .navbar-timeline a").hover(function() {
