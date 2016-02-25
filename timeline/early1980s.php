@@ -138,15 +138,6 @@
       </div>
     </div>
 
-    <script>
-    // $(document).ready(function() {
-    //   var width = window.width - 610;
-    //   $(".early1980s .col6.full-quote").css("width", width);
-
-    // });
-    </script> 
-
-
 
         
 

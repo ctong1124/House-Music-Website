@@ -38,7 +38,7 @@ var data={
             "year":1987,
             "descrip": "Rhythim is Rhythim was the moniker of Derrick Mays. “Strings of Life” was considered a classic in the house and techno genre. It became wildly popular a couple years after its original pressing and was released several more times.",
             "page": "musicdetroit1",
-            "embed": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/qiCEGXGm-z0\" frameborder=\"0\" allowfullscreen><\/iframe>"
+            "embed": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/DM8j4AF06II\" frameborder=\"0\" allowfullscreen><\/iframe>"
         },
         {
             "artist": "Inner City",
@@ -78,7 +78,7 @@ var data={
             "year":1988,
             "descrip": "“Voodoo Ray” got its start at the Hacienda and was written by a Hacienda regular Gerald Simpson. The groove reached number 12 on the UK singles chart.",
             "page": "musicuk1",
-            "embed": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/ivr57dcs9-E\" frameborder=\"0\" allowfullscreen><\/iframe>"
+            "embed": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/zcYW_-EjdPo\" frameborder=\"0\" allowfullscreen><\/iframe>"
         },
         {
             "artist": "Happy Mondays",
@@ -223,9 +223,9 @@ function shuffle(array) {
   return array;
 }
 
+//html for listen page content
 function listenHTML(current) {
     
-
         var op="";
 
         op+="<div class=\"section-fixed scene_element_medium scene_element--fadein\"><div class=\"col9\"><div class=\"videoWrapper\">";
@@ -246,7 +246,6 @@ function listenHTML(current) {
         op+= "</div></div></div> ";
 
         document.getElementById("vid-section").innerHTML=op;
-
     
 }
 
@@ -291,7 +290,7 @@ $(document).ready(function() {
     }
 
 
-
+    //fill listen page with content
     if (document.getElementById("listen") != null) {
         var arrayRandNums = [];
         for (i=0; i<data.music.length; i++) {
@@ -314,30 +313,50 @@ $(document).ready(function() {
     }
 
     
-
+    //listen page arrow functions
     $('.arrow-right').on("click", function(){
-      arrayRandNumsIndex++;
-      if (arrayRandNumsIndex == arrayRandNums.length) {
-        arrayRandNumsIndex = 0;
-        } 
-      currentNum = arrayRandNums[arrayRandNumsIndex];
-      current = data.music[currentNum];
-
-      listenHTML(current);
-
+        songForward();
     });
 
     $('.arrow-left').on("click", function(){
-      arrayRandNumsIndex--;
-      if (arrayRandNumsIndex == -1) {
-        arrayRandNumsIndex = arrayRandNums.length - 1;
-      } 
-      currentNum = arrayRandNums[arrayRandNumsIndex];
-      current = data.music[currentNum];
-
-      listenHTML(current);
+        songBackward();
 
     });
+
+    $(document).keydown(function(e){
+        if (e.keyCode == 37) { 
+           songBackward();
+           return false;
+        }
+        if (e.keyCode == 39) { 
+           songForward();
+           return false;
+        }
+    });
+
+    function songForward() {
+        arrayRandNumsIndex++;
+        if (arrayRandNumsIndex == arrayRandNums.length) {
+          arrayRandNumsIndex = 0;
+          } 
+        currentNum = arrayRandNums[arrayRandNumsIndex];
+        current = data.music[currentNum];
+
+        listenHTML(current);
+    }
+
+    function songBackward() {
+        arrayRandNumsIndex--;
+        if (arrayRandNumsIndex == -1) {
+          arrayRandNumsIndex = arrayRandNums.length - 1;
+        } 
+        currentNum = arrayRandNums[arrayRandNumsIndex];
+        current = data.music[currentNum];
+
+        listenHTML(current);
+    }
+
+    
 
 
     

@@ -1598,6 +1598,10 @@ html, body {
     box-shadow: 0px 0px 0px 9em rgba(255, 0, 0, .2) inset;
 }
 
+.early1980s .map iframe {
+    display: none;
+}
+
 /*DETROIT*/
 .detroit .circ-background {
     box-shadow: 0px 0px 0px 7em rgba(0, 0, 0, .2) inset;

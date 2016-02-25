@@ -100,7 +100,7 @@
           <div class="section-fixed">
             <div class="col12">
               <p>
-                Please let me know of any things that need to be updated/corrected/general feedback!
+                Sources for info are linked within the text when applicable. Please let me know of any things that need to be updated/corrected/general feedback!
               </p>
             </div>
           </div>

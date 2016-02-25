@@ -39,7 +39,6 @@ jQuery(document).ready(function($){
 	});
 
 
-
 	$(".navbar .navbar-basic .timeline").click(function(){
 	   $(".navbar-timeline").toggle("fast");
 	   $(this).toggleClass("on-timeline");
