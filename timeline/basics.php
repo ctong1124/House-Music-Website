@@ -104,10 +104,9 @@
           <div class="section pad-small-bottom">
             <div class="section-fixed">
               <p>
-                House music had its roots in old funk, soul, R&B and disco records. Only until the
-                popularization of synthesizers and drum machines did disco songs begin become
-                completely electronic and aimed towards DJs. Only then did this new electronic music and the new itch 
-                to dance and move turn into a phenomenon called House music. 
+                House music had its roots in old funk, soul, R&amp;B and disco records. In the early 1980s, 
+                as computers and electronic instruments became more accessible, synthesizers and drum machines entered 
+                the arsenal of this new genre of music producers. 
               </p>
               <p>
                 The Roland TB-303 bass synthesizer and Roland TR-808 drum machine were commonly used
@@ -145,7 +144,7 @@
                   <p><span class="hanging quote">&ldquo;</span>The Roland TR-808 Rhythm Composer 
                     (a.k.a. the "808") was one of the first programmable drum machines ("TR" standing for 
                     Transistor Rhythm) <br> <br>
-                    "Raga Bhairavi" from Charanjit Singh's Ten Ragas to a Disco Beat (1982). Using the TR-808 
+                    [The music sample is] "Raga Bhairavi" from Charanjit Singh's Ten Ragas to a Disco Beat (1982). Using the TR-808 
                     along with the TB-303, it resembled later acid house music.<span class="quote">&rdquo;</span></p>
                    <div class="sans-serif-p">
                     -via <a href="http://en.wikipedia.org/wiki/Roland_TR-808" target="blank">Wikipedia</a>

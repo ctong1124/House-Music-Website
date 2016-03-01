@@ -32,9 +32,8 @@
               mostly popularized by the music being played by resident DJ Frankie 
               Knuckles. </p>
 
-            <p>The club was mostly frequented by misfits of that time. It was one of the few places in Chicago 
-            where black/latino minorities and members of the gay community could peacefully coexist with
-            straight kids and have a good time.</p>
+            <p>The club was mostly frequented by misfits of that time. It was one of the few places in Chicago during that time period 
+            where black/latino minorities, members of the gay community and other Chicago residents could peacefully coexist and have a good time.</p>
             </div>
           </div>
           <div class="section map">
@@ -56,7 +55,7 @@
           <div class="section pad-large">
             <div class="section-fixed">
             <p>At first, the music Frankie Knuckles started spinning at the Warehouse 
-              wasn’t house. He mostly played old disco, soul, funk and R&B tracks that had a common theme:
+              wasn’t house. He mostly played old disco, soul, funk and R&amp;B tracks that had a common theme:
               they made people want to dance. The club became famous for its music, the types of tracks 
               Frankie was playing quickly caught on and people wanted to hear more.  </p>
             </div>
@@ -121,7 +120,7 @@
 
           <div class="section">
             <div class="section-fixed">
-            <p>There wasn’t many tracks that had a 4/4 driving beat, 
+            <p>At the time there wasn’t many tracks that had a 4/4 driving beat, 
               so the people of Chicago began to make their own.   </p>
             </div>
           </div>

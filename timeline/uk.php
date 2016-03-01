@@ -64,10 +64,10 @@
             <div class="section pad-medium-bot">
               <div class="section-fixed">
               <p>By the mid-1980s House music began to show up in the UK. The Hacienda was a club opened
-                in 1982 by Factory Records in Manchester. During it's first few years, the club was mostly empty.
-                In 1986, Picker Park and Jon DaSilva started playing House music on Friday nights and the Hacienda
-                became infamous. The Hacienda was the only place where you could hear up and coming House music
-                being imported from America. 
+                in 1982 by Factory Records in Manchester. During it's first few years, the club was mostly empty, but in 1986, 
+                Picker Park and Jon DaSilva started playing House music on Friday nights and the Hacienda
+                became infamous. The Hacienda became one of the of the only places you could 
+                hear up and coming House music being imported from America. 
               </p>
               <p>
                 In 1987, Frankie Knuckles, Marshall Jefferson, Finger Inc. (Larry Heard) and Adonis toured 

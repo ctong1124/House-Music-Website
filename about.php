@@ -36,8 +36,8 @@
             <div class="col12">
               <p>
                 A Guide to House Music is the work of <a href="http://www.carisatong.com" target="blank">Carisa Tong</a>
-                for Northeastern University's undegraduate Web Design and Development course (IM2400). This site
-                would not be possible without the information from these sources
+                for Northeastern University's undergraduate Web Design and Development course (IM2400). This site contains
+                content from these sources: 
               </p>
             </div>
           </div>

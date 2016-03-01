@@ -32,7 +32,7 @@
             <div class="section pad-med-bot">
               <div class="section-fixed">
               <p>As the House music culture boomed in Chicago, it trickled its way to nearby Detroit, MI. 
-                There wasn't much a difference between early House and Techno tracks, but in the late 1980s, 
+                In the beginning there wasn't much a difference between early House and Techno tracks, but in the late 1980s, 
                 Detroit gave birth to a genre of music that would take on the name techno. 
               </p>
               </div>
@@ -55,7 +55,7 @@
               <p>Juan Atkins, Kevin Saunderson and Derrick May were three friends who grew up in Belleville, 
                 MI, a town 30 miles southwest of Detroit. While in high school, they began to produce music in
                 basement during the late 70s. Inspired by funk, new wave and disco, they began to make music on
-                their computers, using synths and learning how to turntable.</p>
+                their computers, using synths and learning how to DJ turntables.</p>
 
               <p>By the late 1980s, the three were regular DJs on the club and underground scene and began to
                 experiment with electronic music that would begin to emulate Detroit's industrial history. </p>
